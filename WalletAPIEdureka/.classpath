@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/logback-classic-1.1.11.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/logback-core-1.1.11.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/snakeyaml-1.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-aop-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-beans-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-boot-2.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-boot-autoconfigure-1.5.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-boot-starter-logging-1.5.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-boot-test-2.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-context-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-expression-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-core-5.1.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-jcl-5.1.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/MyLearning/Jar_Files/spring-test-5.1.12.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
